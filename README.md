@@ -17,19 +17,6 @@ Kite, a Pinterest-inspired project, is a captivating web application backed by F
   - **Unique Features:** Introduce features not found on traditional platforms, differentiating Kite from Pinterest.
   - **Interaction:** Allow users to like, comment, and follow others, fostering a sense of community.
   - **Username Visibility:** Replace email visibility in URLs with a username system for enhanced privacy and user identification.
-
-## How to Access the App
-
-Explore Kite live at [kite-world.vercel.app](https://kite-world.vercel.app).
-
-## Contributing
-
-Kite is an open-source project, and contributions are welcome! Feel free to suggest new features, report bugs, or submit pull requests to help make Kite an even better platform.
-
-## Feedback and Support
-
-If you encounter any issues or have feedback to share, please open an issue on the [GitHub repository](https://github.com/your-username/kite).
-
 ---
 
 Kite - Your Digital Album. Share Your Journey, Discover Others. 🪁🌟
